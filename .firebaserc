@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictak-ddaa6": {
+      "hosting": {
+        "myapp": [
+          "tictak-ddaa6"
+        ]
+      }
+    }
+  }
+}
